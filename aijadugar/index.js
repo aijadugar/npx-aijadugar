@@ -5,7 +5,7 @@ import boxen from "boxen";
 
 const divider = chalk.gray("─".repeat(54));
 
-const morseName = chalk.magenta("1J4DUG4R - WH3R3 T3CHN0L0GY M33T5 M4G1C");
+const morseName = chalk.magenta("A1J4DUG4R - WH3R3 T3CHN0L0GY M33T5 M4G1C");
 const morseEnd = chalk.yellow("- .... . ..-. ..- - ..- .-. . .. ... .- .. --..-- .- -. -.. .. .- -- .--- .- -.. ..- --. .- .-. - --- ... .... .- .--. . .. - -.-.-");
 
 const title = chalk.bold.green("Mr. @");
